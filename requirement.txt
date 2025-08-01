@@ -1,0 +1,6 @@
+openai
+twilio
+pandas
+requests
+streamlit
+kiteconnect
